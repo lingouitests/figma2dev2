@@ -1,9 +1,11 @@
- {
-    "ProjectLogin": {
-       "nestedKey": {
-          "login": "Log In", 
-          "logout": "Log Out",
-          "name":  "Name"
-        }
-     }
-  }
+{
+  "ProjectLogin": {
+    "nestedKey": {
+      "login": "Log In",
+      "logout": "Log Out",
+      "name": "Name"
+    }
+  },
+  "start": "start",
+  "myPrefix_goon_mySuffix": "go on"
+}
