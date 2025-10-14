@@ -1,4 +1,9 @@
-{
-  "start": "start",
-  "myPrefix_goon_mySuffix": "go on"
-}
+ {
+    "ProjectLogin": {
+       "nestedKey": {
+          "login": "Log In", 
+          "logout": "Log Out",
+          "name":  "Name"
+        }
+     }
+  }
