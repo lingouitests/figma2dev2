@@ -1,1 +1,6 @@
-
+msgid ""
+msgstr ""
+msgid "start"
+msgstr "start"
+msgid "myPrefix_goon_mySuffix"
+msgstr "go on"
