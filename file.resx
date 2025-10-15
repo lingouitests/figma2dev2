@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
-  <data name="start">
-    <value><![CDATA[start]]></value>
-  </data>
-  <data name="myPrefix_goon_mySuffix">
-    <value><![CDATA[go on]]></value>
-  </data>
+
 </root>
