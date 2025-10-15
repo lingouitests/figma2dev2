@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <properties>
-
+  <entry key="start"><![CDATA[start]]></entry>
+  <entry key="myPrefix_goon_mySuffix"><![CDATA[go on]]></entry>
 </properties>
