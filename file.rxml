@@ -2,6 +2,4 @@
 <properties>
    <entry key="hello_world">Hello World</entry>
    <entry key="goodbye">Good Bye</entry>
-  <entry key="start"><![CDATA[start]]></entry>
-  <entry key="myPrefix_goon_mySuffix"><![CDATA[go on]]></entry>
 </properties>
