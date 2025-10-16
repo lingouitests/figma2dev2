@@ -1,8 +1,0 @@
-STRINGTABLE
-BEGIN
-start "9688.105887 start"
-myPrefix_goon_mySuffix "9688.105888 go on"
-myPrefix_next_mySuffix "9688.105889 next"
-myPrefix_last_mySuffix "9688.105890 last"
-myPrefix_time_mySuffix "9688.105892 time"
-END
