@@ -1,3 +1,0 @@
-start "démarrer"
-myPrefix_goon_mySuffix "continuer"
-myPrefix_next_mySuffix "suivant"
