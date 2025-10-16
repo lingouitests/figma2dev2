@@ -1,8 +1,0 @@
-STRINGTABLE
-BEGIN
-start "start"
-myPrefix_goon_mySuffix "go on"
-myPrefix_next_mySuffix "next"
-myPrefix_last_mySuffix "last"
-myPrefix_time_mySuffix "time"
-END
