@@ -5,4 +5,6 @@ myPrefix_goon_mySuffix "continuer"
 myPrefix_next_mySuffix "suivant"
 myPrefix_last_mySuffix "dernier"
 myPrefix_time_mySuffix "temps"
+myPrefix_111_mySuffix "111"
+myPrefix_222_mySuffix "222"
 END
