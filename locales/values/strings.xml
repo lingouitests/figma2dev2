@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="start" translatable="true"><![CDATA[start]]></string>
-  <string name="myPrefix_goon_mySuffix" translatable="true"><![CDATA[go on]]></string>
+  <string name="adr1" translatable="true"><![CDATA[str_an1]]></string>
+  <string name="andr2" translatable="true"><![CDATA[str_an2]]></string>
 </resources>
