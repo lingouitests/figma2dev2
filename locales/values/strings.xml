@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-  <string name="adr1" translatable="true"><![CDATA[str_an1]]></string>
-  <string name="andr2" translatable="true"><![CDATA[str_an2]]></string>
+  <string translatable="true" name="adr1"><![CDATA[str_an1]]></string>
+  <string translatable="true" name="andr2"><![CDATA[str_an2]]></string>
+  <string name="123_555_1" translatable="true"><![CDATA[555]]></string>
+  <string name="123_777_2" translatable="true"><![CDATA[777]]></string>
+  <string name="123_ytyty_3" translatable="true"><![CDATA[ytyty]]></string>
+  <string name="123_lkjhg_4" translatable="true"><![CDATA[lkjhg]]></string>
+  <string name="123_iuyt_5" translatable="true"><![CDATA[iuyt]]></string>
+  <string name="123_2310_1" translatable="true"><![CDATA[2310]]></string>
+  <string name="123_2410_2" translatable="true"><![CDATA[2410]]></string>
+  <string name="123_2510_3" translatable="true"><![CDATA[2510]]></string>
 </resources>
