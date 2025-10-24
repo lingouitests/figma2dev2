@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-  <string name="123_555_1" translatable="true"><![CDATA[555]]></string>
-  <string name="123_777_2" translatable="true"><![CDATA[777]]></string>
-  <string name="123_ytyty_3" translatable="true"><![CDATA[ytyty]]></string>
-  <string name="123_lkjhg_4" translatable="true"><![CDATA[lkjhg]]></string>
-  <string name="123_iuyt_5" translatable="true"><![CDATA[iuyt]]></string>
+  <string translatable="true" name="123_555_1"><![CDATA[555]]></string>
+  <string translatable="true" name="123_777_2"><![CDATA[777]]></string>
+  <string translatable="true" name="123_ytyty_3"><![CDATA[ytyty]]></string>
+  <string translatable="true" name="123_lkjhg_4"><![CDATA[lkjhg]]></string>
+  <string translatable="true" name="123_iuyt_5"><![CDATA[iuyt]]></string>
 </resources>
