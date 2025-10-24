@@ -1,22 +1,5 @@
 {
   "start": "start",
   "step1": "go on",
-  "step2": "proceed",
-  "pre2_monday_conter": "+ 1_counter=monday",
-  "pre2_tuesday_conter": "+ 1_counter=tuesday",
-  "pre2_wednesda_qwe_counter": "wednesday",
-  "pre2_sunday_qwe_counter": "sunday",
-  "pre2_2310_conter": "+ 1_counter=2310",
-  "pre2_2410_counter": "+ 1=2410",
-  "pre2_2510_counter+1": "2510",
-  "pre2_26_6": "2610",
-  "pre2_27_0": "2710",
-  "pre2_28_0": "2810",
-  "_null_counter": "or",
-  "a_null_counter": "andor",
-  "next_null_counter": "next",
-  "123_555_123_counter": "555",
-  "123_777_123_counter": "777",
-  "123_ytyty_1": "ytyty",
-  "123_iuyt_876543_counter": "iuyt"
+  "step2": "proceed"
 }
