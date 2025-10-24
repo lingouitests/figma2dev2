@@ -1,4 +1,5 @@
 {
   "start": "start",
-  "myPrefix_goon_mySuffix": "go on"
+  "step1": "go on",
+  "step2":"proceed"
 }
