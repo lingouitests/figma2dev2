@@ -10,4 +10,12 @@
   <string translatable="true" name="123_2310_1"><![CDATA[2310]]></string>
   <string translatable="true" name="123_2410_2"><![CDATA[2410]]></string>
   <string translatable="true" name="123_2510_3"><![CDATA[2510]]></string>
+  <string translatable="true" name="333_2310_1"><![CDATA[2310]]></string>
+  <string translatable="true" name="333_one_1"><![CDATA[one]]></string>
+  <string translatable="true" name="333_2810_1"><![CDATA[2810]]></string>
+  <string translatable="true" name="333_and_2"><![CDATA[and]]></string>
+  <string translatable="true" name="333_or_3"><![CDATA[or]]></string>
+  <string translatable="true" name="333_three_1"><![CDATA[three]]></string>
+  <string translatable="true" name="333_four_2"><![CDATA[four]]></string>
+  <string translatable="true" name="333_five_3"><![CDATA[five]]></string>
 </resources>
