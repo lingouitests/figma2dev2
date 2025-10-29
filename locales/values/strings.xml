@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<resources>
-  <string translatable="true" name="adr1"><![CDATA[str_an1]]></string>
-  <string translatable="true" name="andr2"><![CDATA[str_an2]]></string>
-  <string translatable="true" name="123_555_1"><![CDATA[555]]></string>
-  <string translatable="true" name="123_777_2"><![CDATA[777]]></string>
-  <string translatable="true" name="123_ytyty_3"><![CDATA[ytyty]]></string>
-  <string translatable="true" name="123_lkjhg_4"><![CDATA[lkjhg]]></string>
-  <string translatable="true" name="123_iuyt_5"><![CDATA[iuyt]]></string>
-  <string translatable="true" name="123_2310_1"><![CDATA[2310]]></string>
-  <string translatable="true" name="123_2410_2"><![CDATA[2410]]></string>
-  <string translatable="true" name="123_2510_3"><![CDATA[2510]]></string>
-  <string translatable="true" name="333_2310_1"><![CDATA[2310]]></string>
-  <string translatable="true" name="333_one_1"><![CDATA[one]]></string>
-  <string translatable="true" name="333_2810_1"><![CDATA[2810]]></string>
-  <string translatable="true" name="333_and_2"><![CDATA[and]]></string>
-  <string translatable="true" name="333_or_3"><![CDATA[or]]></string>
-  <string translatable="true" name="333_three_1"><![CDATA[three]]></string>
-  <string translatable="true" name="333_four_2"><![CDATA[four]]></string>
-  <string translatable="true" name="333_five_3"><![CDATA[five]]></string>
-</resources>
+<?xml version="1.0" encoding="UTF-8"?>
+<stylesheet>
+  <variable name="333_2310_1"><![CDATA[2310]]></variable>
+  <variable name="333_one_1"><![CDATA[one]]></variable>
+  <variable name="333_2810_1"><![CDATA[2810]]></variable>
+  <variable name="333_and_2"><![CDATA[and]]></variable>
+  <variable name="333_or_3"><![CDATA[or]]></variable>
+  <variable name="333_three_1"><![CDATA[three]]></variable>
+  <variable name="333_four_2"><![CDATA[four]]></variable>
+  <variable name="333_five_3"><![CDATA[five]]></variable>
+</stylesheet>

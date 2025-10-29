@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<resources>
-  <string translatable="true" name="333_2310_1"><![CDATA[2310]]></string>
-  <string translatable="true" name="333_one_1"><![CDATA[bir]]></string>
-  <string translatable="true" name="333_2810_1"><![CDATA[2810]]></string>
-  <string translatable="true" name="333_and_2"><![CDATA[ve]]></string>
-  <string translatable="true" name="333_or_3"><![CDATA[veya]]></string>
-</resources>
+<?xml version="1.0" encoding="UTF-8"?>
+<stylesheet>
+  <variable name="333_2310_1"><![CDATA[2310]]></variable>
+  <variable name="333_one_1"><![CDATA[bir]]></variable>
+  <variable name="333_2810_1"><![CDATA[2810]]></variable>
+  <variable name="333_and_2"><![CDATA[ve]]></variable>
+  <variable name="333_or_3"><![CDATA[veya]]></variable>
+</stylesheet>
