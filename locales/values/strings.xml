@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <stylesheet>
   <variable name="333_2310_1"><![CDATA[2310]]></variable>
   <variable name="333_one_1"><![CDATA[one]]></variable>
@@ -8,4 +8,7 @@
   <variable name="333_three_1"><![CDATA[three]]></variable>
   <variable name="333_four_2"><![CDATA[four]]></variable>
   <variable name="333_five_3"><![CDATA[five]]></variable>
+  <variable name="333_3010_1"><![CDATA[3010]]></variable>
+  <variable name="333_HALLOWEE_1"><![CDATA[HALLOWEEN]]></variable>
+  <variable name="333_FINAL_1"><![CDATA[FINAL]]></variable>
 </stylesheet>

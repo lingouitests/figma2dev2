@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <stylesheet>
   <variable name="333_2310_1"><![CDATA[2310]]></variable>
   <variable name="333_one_1"><![CDATA[een]]></variable>
   <variable name="333_2810_1"><![CDATA[2810]]></variable>
   <variable name="333_and_2"><![CDATA[en]]></variable>
   <variable name="333_or_3"><![CDATA[of]]></variable>
+  <variable name="333_three_1"><![CDATA[drie]]></variable>
+  <variable name="333_four_2"><![CDATA[vier]]></variable>
+  <variable name="333_five_3"><![CDATA[vijf]]></variable>
 </stylesheet>
