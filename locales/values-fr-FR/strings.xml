@@ -8,4 +8,9 @@
   <variable name="333_three_1"><![CDATA[trois]]></variable>
   <variable name="333_four_2"><![CDATA[quatre]]></variable>
   <variable name="333_five_3"><![CDATA[cinq]]></variable>
+  <variable name="333_3010_1"><![CDATA[3010]]></variable>
+  <variable name="333_HALLOWEE_1"><![CDATA[HALLOWEEN]]></variable>
+  <variable name="333_FINAL_1"><![CDATA[FINALE]]></variable>
+  <variable name="333_3110_1"><![CDATA[3110]]></variable>
+  <variable name="333_trytwo_1"><![CDATA[essayez-en deux]]></variable>
 </stylesheet>

@@ -5,9 +5,12 @@
   <variable name="333_2810_1"><![CDATA[2810]]></variable>
   <variable name="333_and_2"><![CDATA[a]]></variable>
   <variable name="333_or_3"><![CDATA[nebo]]></variable>
-  <variable name="333_three_1"><![CDATA[tÅi]]></variable>
-  <variable name="333_four_2"><![CDATA[ÄtyÅi]]></variable>
-  <variable name="333_five_3"><![CDATA[pÄt]]></variable>
+  <variable name="333_three_1"><![CDATA[tři]]></variable>
+  <variable name="333_four_2"><![CDATA[čtyři]]></variable>
+  <variable name="333_five_3"><![CDATA[pět]]></variable>
   <variable name="333_3010_1"><![CDATA[3010]]></variable>
   <variable name="333_HALLOWEE_1"><![CDATA[HALLOWEEN]]></variable>
+  <variable name="333_FINAL_1"><![CDATA[FINÃLNÃ]]></variable>
+  <variable name="333_3110_1"><![CDATA[3110]]></variable>
+  <variable name="333_trytwo_1"><![CDATA[Zkuste dva]]></variable>
 </stylesheet>
