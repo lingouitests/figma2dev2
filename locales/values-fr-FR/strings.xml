@@ -14,5 +14,24 @@
   <variable name="333_3110_1"><![CDATA[3110]]></variable>
   <variable name="333_trytwo_1"><![CDATA[essayez-en deux]]></variable>
   <variable name="333_check_1"><![CDATA[cheque]]></variable>
-  <variable name="333_check2_1"><![CDATA[contrÃ´le 2]]></variable>
+  <variable name="333_check2_1"><![CDATA[contrôle 2]]></variable>
+  <variable name="333_computer_1"><![CDATA[ordinateur]]></variable>
+  <variable name="333_tryagain_1"><![CDATA[essayez Ã  nouveau]]></variable>
+  <variable name="333_test44Ve_1"><![CDATA[Version d'essai 44]]></variable>
+  <variable name="333_check041_1"><![CDATA[vÃ©rifier 0411]]></variable>
+  <variable name="333_finaltry_1"><![CDATA[dernier essai 2025]]></variable>
+  <variable name="333_sendall1_1"><![CDATA[envoyez les 123]]></variable>
+  <variable name="333_question_1"><![CDATA[question]]></variable>
+  <variable name="333_trigger_1"><![CDATA[dÃ©clencheur]]></variable>
+  <variable name="333_111_1"><![CDATA[111]]></variable>
+  <variable name="333_222_1"><![CDATA[222]]></variable>
+  <variable name="333_333_1"><![CDATA[333]]></variable>
+  <variable name="333_bear_1"><![CDATA[ours]]></variable>
+  <variable name="333_cat_1"><![CDATA[chat]]></variable>
+  <variable name="333_dog_1"><![CDATA[chien]]></variable>
+  <variable name="333_mouse_1"><![CDATA[souris]]></variable>
+  <variable name="333_alpha_1"><![CDATA[alpha]]></variable>
+  <variable name="333_beta_1"><![CDATA[bÃªta]]></variable>
+  <variable name="333_gamma_1"><![CDATA[gamma]]></variable>
+  <variable name="333_teta_1"><![CDATA[teta]]></variable>
 </stylesheet>

@@ -15,4 +15,23 @@
   <variable name="333_trytwo_1"><![CDATA[Zkuste dva]]></variable>
   <variable name="333_check_1"><![CDATA[zkontrolovat]]></variable>
   <variable name="333_check2_1"><![CDATA[kontrol2]]></variable>
+  <variable name="333_computer_1"><![CDATA[poÄÃ­taÄ]]></variable>
+  <variable name="333_tryagain_1"><![CDATA[zkuste to znovu]]></variable>
+  <variable name="333_test44Ve_1"><![CDATA[test 44 Verze]]></variable>
+  <variable name="333_check041_1"><![CDATA[kontrola 0411]]></variable>
+  <variable name="333_finaltry_1"><![CDATA[zÃ¡vÄreÄnÃ½ pokus 2025]]></variable>
+  <variable name="333_sendall1_1"><![CDATA[odeslat vÅ¡e 123]]></variable>
+  <variable name="333_question_1"><![CDATA[otÃ¡zka]]></variable>
+  <variable name="333_trigger_1"><![CDATA[spouÅ¡Å¥]]></variable>
+  <variable name="333_111_1"><![CDATA[111]]></variable>
+  <variable name="333_222_1"><![CDATA[222]]></variable>
+  <variable name="333_333_1"><![CDATA[333]]></variable>
+  <variable name="333_bear_1"><![CDATA[medvÄd]]></variable>
+  <variable name="333_cat_1"><![CDATA[koÄka]]></variable>
+  <variable name="333_dog_1"><![CDATA[pes]]></variable>
+  <variable name="333_mouse_1"><![CDATA[myÅ¡]]></variable>
+  <variable name="333_alpha_1"><![CDATA[alfa]]></variable>
+  <variable name="333_beta_1"><![CDATA[beta]]></variable>
+  <variable name="333_gamma_1"><![CDATA[gama]]></variable>
+  <variable name="333_teta_1"><![CDATA[teta]]></variable>
 </stylesheet>
