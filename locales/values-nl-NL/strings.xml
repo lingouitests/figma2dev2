@@ -31,7 +31,9 @@
   <variable name="333_dog_1"><![CDATA[hond]]></variable>
   <variable name="333_mouse_1"><![CDATA[muis]]></variable>
   <variable name="333_alpha_1"><![CDATA[alfa]]></variable>
-  <variable name="333_beta_1"><![CDATA[bÃ¨ta]]></variable>
-  <variable name="333_gamma_1"><![CDATA[gamma]]></variable>
+  <variable name="333_beta_1"><![CDATA[bèta]]></variable>
+  <variable name="333_gamma_1"><![CDATA[nieuw gamma]]></variable>
   <variable name="333_teta_1"><![CDATA[teta]]></variable>
+  <variable name="333_lrmvalue_1"><![CDATA[lrm-waarde]]></variable>
+  <variable name="333_lrmvValu_1"><![CDATA[LRMV-waarde Nieuw]]></variable>
 </stylesheet>
