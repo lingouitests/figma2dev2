@@ -5,5 +5,6 @@
   <string translatable="true" name="four_2"><![CDATA[four]]></string>
   <string translatable="true" name="computer_1"><![CDATA[computer]]></string>
   <string translatable="true" name="question_1"><![CDATA[question]]></string>
-  <string name="ytyty_1" translatable="true"><![CDATA[ytyty]]></string>
+  <string translatable="true" name="ytyty_1"><![CDATA[ytyty]]></string>
+  <string name="321123_check_1" translatable="true"><![CDATA[check]]></string>
 </resources>

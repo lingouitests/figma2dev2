@@ -4,4 +4,7 @@
   <string translatable="true" name="three_1"><![CDATA[trois-trois]]></string>
   <string translatable="true" name="four_2"><![CDATA[quatre ordinateur]]></string>
   <string translatable="true" name="computer_1"><![CDATA[ordinateur]]></string>
+  <string name="question_1" translatable="true"><![CDATA[question]]></string>
+  <string name="ytyty_1" translatable="true"><![CDATA[ytyty]]></string>
+  <string name="321123_check_1" translatable="true"><![CDATA[cheque]]></string>
 </resources>
