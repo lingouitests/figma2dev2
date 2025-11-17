@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-  <string name="beta_1" translatable="true"><![CDATA[bÃªta]]></string>
-  <string name="three_1" translatable="true"><![CDATA[trois-trois]]></string>
-  <string name="four_2" translatable="true"><![CDATA[quatre ordinateur]]></string>
-  <string name="computer_1" translatable="true"><![CDATA[ordinateur]]></string>
+  <string translatable="true" name="beta_1"><![CDATA[bêta]]></string>
+  <string translatable="true" name="three_1"><![CDATA[trois-trois]]></string>
+  <string translatable="true" name="four_2"><![CDATA[quatre ordinateur]]></string>
+  <string translatable="true" name="computer_1"><![CDATA[ordinateur]]></string>
 </resources>
