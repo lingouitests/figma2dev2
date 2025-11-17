@@ -1,39 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<stylesheet>
-  <variable name="333_2310_1"><![CDATA[2310]]></variable>
-  <variable name="333_one_1"><![CDATA[one]]></variable>
-  <variable name="333_2810_1"><![CDATA[2810]]></variable>
-  <variable name="333_and_2"><![CDATA[and]]></variable>
-  <variable name="333_or_3"><![CDATA[or]]></variable>
-  <variable name="333_three_1"><![CDATA[three]]></variable>
-  <variable name="333_four_2"><![CDATA[four]]></variable>
-  <variable name="333_five_3"><![CDATA[five]]></variable>
-  <variable name="333_3010_1"><![CDATA[3010]]></variable>
-  <variable name="333_HALLOWEE_1"><![CDATA[HALLOWEEN]]></variable>
-  <variable name="333_FINAL_1"><![CDATA[FINAL]]></variable>
-  <variable name="333_3110_1"><![CDATA[3110]]></variable>
-  <variable name="333_trytwo_1"><![CDATA[try two]]></variable>
-  <variable name="333_check_1"><![CDATA[check]]></variable>
-  <variable name="333_check2_1"><![CDATA[check2]]></variable>
-  <variable name="333_computer_1"><![CDATA[computer]]></variable>
-  <variable name="333_tryagain_1"><![CDATA[try again]]></variable>
-  <variable name="333_test44Ve_1"><![CDATA[test 44 Version]]></variable>
-  <variable name="333_check041_1"><![CDATA[check 0411]]></variable>
-  <variable name="333_finaltry_1"><![CDATA[final try 2025]]></variable>
-  <variable name="333_sendall1_1"><![CDATA[send all 123]]></variable>
-  <variable name="333_question_1"><![CDATA[question]]></variable>
-  <variable name="333_trigger_1"><![CDATA[trigger]]></variable>
-  <variable name="333_111_1"><![CDATA[111]]></variable>
-  <variable name="333_222_1"><![CDATA[222]]></variable>
-  <variable name="333_333_1"><![CDATA[333]]></variable>
-  <variable name="333_bear_1"><![CDATA[bear]]></variable>
-  <variable name="333_cat_1"><![CDATA[cat]]></variable>
-  <variable name="333_dog_1"><![CDATA[dog]]></variable>
-  <variable name="333_mouse_1"><![CDATA[mouse]]></variable>
-  <variable name="333_alpha_1"><![CDATA[alpha]]></variable>
-  <variable name="333_beta_1"><![CDATA[beta]]></variable>
-  <variable name="333_gamma_1"><![CDATA[newgamma]]></variable>
-  <variable name="333_teta_1"><![CDATA[teta]]></variable>
-  <variable name="333_lrmvalue_1"><![CDATA[lrmvalue]]></variable>
-  <variable name="333_lrmvValu_1"><![CDATA[lrmvValuenew]]></variable>
-</stylesheet>
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="beta_1" translatable="true"><![CDATA[beta]]></string>
+  <string name="three_1" translatable="true"><![CDATA[three]]></string>
+  <string name="four_2" translatable="true"><![CDATA[four]]></string>
+  <string name="computer_1" translatable="true"><![CDATA[computer]]></string>
+</resources>
