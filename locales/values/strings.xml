@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<resources>
-  <string translatable="true" name="beta_1"><![CDATA[beta]]></string>
-  <string translatable="true" name="three_1"><![CDATA[three]]></string>
-  <string translatable="true" name="four_2"><![CDATA[four]]></string>
-  <string translatable="true" name="computer_1"><![CDATA[computer]]></string>
-  <string translatable="true" name="question_1"><![CDATA[question]]></string>
-  <string translatable="true" name="ytyty_1"><![CDATA[ytyty]]></string>
-  <string name="321123_check_1" translatable="true"><![CDATA[check]]></string>
-</resources>
+<?xml version="1.0" encoding="UTF-8"?>
+<stylesheet>
+  <variable name="beta_1"><![CDATA[beta]]></variable>
+  <variable name="three_1"><![CDATA[three]]></variable>
+  <variable name="four_2"><![CDATA[four]]></variable>
+  <variable name="computer_1"><![CDATA[computer]]></variable>
+  <variable name="question_1"><![CDATA[question]]></variable>
+  <variable name="ytyty_1"><![CDATA[ytyty]]></variable>
+  <variable name="321123_check_1"><![CDATA[check]]></variable>
+</stylesheet>
