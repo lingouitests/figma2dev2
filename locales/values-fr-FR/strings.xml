@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <stylesheet>
-  <variable name="beta_1"><![CDATA[bÃªta]]></variable>
+  <variable name="beta_1"><![CDATA[bêta]]></variable>
   <variable name="three_1"><![CDATA[trois-trois]]></variable>
   <variable name="four_2"><![CDATA[quatre ordinateur]]></variable>
   <variable name="computer_1"><![CDATA[ordinateur]]></variable>
